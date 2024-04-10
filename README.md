@@ -1,20 +1,20 @@
 PROJECT CREATED BY: 
 
-NAME:M.Kalaiarasi 
+NAME :M.Kalaiarasi 
 
-NAANMUDHALVAN ID:au713921104017
+NAANMUDHALVAN ID :au713921104017
 
 Register Number :713921104017
 
-College code:7139
+College code :7139
 
 College Name:Sri Ranganathar Institute of Engineering And Technology
 
 LOGIN DETAILS:
 
-UserName:kalaiarasi
+UserName :kalaiarasi
 
-Password:Kalai@2004
+Password :Kalai@2004
 
 Mail id :mkalai957@gmail.com
 
